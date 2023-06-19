@@ -28,7 +28,7 @@ The analysis covers the following aspects of child wellbeing:
 
 ## Queries
 
-The project includes a set of SQL queries that demonstrate the analysis performed on the dataset. The queries cover a range of topics and provide insights into the relationships between different variables and child wellbeing indicators. Examples of query topics include:
+The project includes a set of Python script that demonstrate the analysis performed on the dataset. The pandas code cover a range of topics and provide insights into the relationships between different variables and child wellbeing indicators. Examples of query topics include:
 
 - Calculating average child wellbeing scores by age group or race/ethnicity.
 - Analyzing the correlation between parental education level and child health outcomes.
