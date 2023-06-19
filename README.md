@@ -51,6 +51,7 @@ EDUCATION
 _________________________________________________________________________________
 
 B.TECH - MECHANICAL ENGINEER - 8.65 GPA		                                   Maharashtra, India
+
 GSM Marathwada Institute of Technology - Aurangabad         	               Aug  2018  to sep 2022
 
 CERTIFICATIONS & COURSES
